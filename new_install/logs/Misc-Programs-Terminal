@@ -1,0 +1,16 @@
+=== Starting installation for: Misc-Programs (Terminal) ===
+Installing: alacritty
+warning: alacritty-0.17.0-1 is up to date -- skipping
+ there is nothing to do
+✓ alacritty installed successfully
+----------------------------------------
+Installing: ghostty
+warning: ghostty-1.3.1-2 is up to date -- skipping
+ there is nothing to do
+✓ ghostty installed successfully
+----------------------------------------
+Installing: zsh
+warning: zsh-5.9.1-1 is up to date -- skipping
+ there is nothing to do
+✓ zsh installed successfully
+----------------------------------------

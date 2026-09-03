@@ -1,0 +1,21 @@
+=== Starting installation for: Xorg: Bspwm ===
+Installing: bspwm
+warning: bspwm-0.9.12-1 is up to date -- skipping
+ there is nothing to do
+✓ bspwm installed successfully
+----------------------------------------
+Installing: sxhkd
+warning: sxhkd-0.6.3-1 is up to date -- skipping
+ there is nothing to do
+✓ sxhkd installed successfully
+----------------------------------------
+Installing: rofi
+warning: rofi-2.0.0-1 is up to date -- skipping
+ there is nothing to do
+✓ rofi installed successfully
+----------------------------------------
+Installing: polybar
+warning: polybar-3.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ polybar installed successfully
+----------------------------------------

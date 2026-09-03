@@ -1,0 +1,106 @@
+=== Starting installation for: Tools ===
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------
+=== Starting installation for: Tools ===
+Installing: neovim
+warning: neovim-0.12.3-1 is up to date -- skipping
+ there is nothing to do
+✓ neovim installed successfully
+----------------------------------------
+Installing: emacs
+resolving dependencies...
+looking for conflicting packages...
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict. Remove emacs-wayland? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: emacs-30.2-3 and emacs-wayland-30.2-3 are in conflict
+✗ Failed while installing emacs
+----------------------------------------

@@ -1,0 +1,155 @@
+=== Starting installation for: Xorg ===
+=== Starting installation for: Xorg ===
+=== Starting installation for: Xorg ===
+=== Starting installation for: Xorg ===
+Installing: [
+error: target not found: [
+✗ Failed while installing [
+----------------------------------------
+Installing:   "xorg-server",
+error: target not found:   "xorg-server",
+✗ Failed while installing   "xorg-server",
+----------------------------------------
+Installing:   "xorg-xinit",
+error: target not found:   "xorg-xinit",
+✗ Failed while installing   "xorg-xinit",
+----------------------------------------
+Installing:   "xorg-xrandr",
+error: target not found:   "xorg-xrandr",
+✗ Failed while installing   "xorg-xrandr",
+----------------------------------------
+Installing:   "libxcb",
+error: target not found:   "libxcb",
+✗ Failed while installing   "libxcb",
+----------------------------------------
+Installing:   "xcb-util",
+error: target not found:   "xcb-util",
+✗ Failed while installing   "xcb-util",
+----------------------------------------
+Installing:   "xcb-util-keysyms",
+error: target not found:   "xcb-util-keysyms",
+✗ Failed while installing   "xcb-util-keysyms",
+----------------------------------------
+Installing:   "xcb-util-wm",
+error: target not found:   "xcb-util-wm",
+✗ Failed while installing   "xcb-util-wm",
+----------------------------------------
+Installing:   "xcb-util-cursor",
+error: target not found:   "xcb-util-cursor",
+✗ Failed while installing   "xcb-util-cursor",
+----------------------------------------
+Installing:   "fontconfig",
+error: target not found:   "fontconfig",
+✗ Failed while installing   "fontconfig",
+----------------------------------------
+Installing:   "freetype2",
+error: target not found:   "freetype2",
+✗ Failed while installing   "freetype2",
+----------------------------------------
+Installing:   "xdg-utils",
+error: target not found:   "xdg-utils",
+✗ Failed while installing   "xdg-utils",
+----------------------------------------
+Installing:   "xdotool",
+error: target not found:   "xdotool",
+✗ Failed while installing   "xdotool",
+----------------------------------------
+Installing:   "wmctrl"
+error: target not found:   "wmctrl"
+✗ Failed while installing   "wmctrl"
+----------------------------------------
+Installing: ]
+error: target not found: ]
+✗ Failed while installing ]
+----------------------------------------
+Installing: [
+error: target not found: [
+✗ Failed while installing [
+----------------------------------------
+Installing:   "bspwm",
+error: target not found:   "bspwm",
+✗ Failed while installing   "bspwm",
+----------------------------------------
+Installing:   "sxhkd",
+error: target not found:   "sxhkd",
+✗ Failed while installing   "sxhkd",
+----------------------------------------
+Installing:   "rofi",
+error: target not found:   "rofi",
+✗ Failed while installing   "rofi",
+----------------------------------------
+Installing:   "polybar"
+error: target not found:   "polybar"
+✗ Failed while installing   "polybar"
+----------------------------------------
+Installing: ]
+error: target not found: ]
+✗ Failed while installing ]
+----------------------------------------
+=== Starting installation for: Xorg ===
+=== Starting installation for: Xorg ===
+Installing: xorg-server
+warning: xorg-server-21.1.23-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-server installed successfully
+----------------------------------------
+Installing: xorg-xinit
+warning: xorg-xinit-1.4.4-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-xinit installed successfully
+----------------------------------------
+Installing: xorg-xrandr
+warning: xorg-xrandr-1.5.4-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-xrandr installed successfully
+----------------------------------------
+Installing: libxcb
+warning: libxcb-1.17.0-1 is up to date -- skipping
+ there is nothing to do
+✓ libxcb installed successfully
+----------------------------------------
+Installing: xcb-util
+warning: xcb-util-0.4.1-2 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util installed successfully
+----------------------------------------
+Installing: xcb-util-keysyms
+warning: xcb-util-keysyms-0.4.1-5 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-keysyms installed successfully
+----------------------------------------
+Installing: xcb-util-wm
+warning: xcb-util-wm-0.4.2-2 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-wm installed successfully
+----------------------------------------
+Installing: xcb-util-cursor
+warning: xcb-util-cursor-0.1.6-1 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-cursor installed successfully
+----------------------------------------
+Installing: fontconfig
+warning: fontconfig-2:2.18.1-1 is up to date -- skipping
+ there is nothing to do
+✓ fontconfig installed successfully
+----------------------------------------
+Installing: freetype2
+warning: freetype2-2.14.3-1 is up to date -- skipping
+ there is nothing to do
+✓ freetype2 installed successfully
+----------------------------------------
+Installing: xdg-utils
+warning: xdg-utils-1.2.1-2 is up to date -- skipping
+ there is nothing to do
+✓ xdg-utils installed successfully
+----------------------------------------
+Installing: xdotool
+warning: xdotool-4.20260303.1-1 is up to date -- skipping
+ there is nothing to do
+✓ xdotool installed successfully
+----------------------------------------
+Installing: wmctrl
+warning: wmctrl-1.07-6 is up to date -- skipping
+ there is nothing to do
+✓ wmctrl installed successfully
+----------------------------------------

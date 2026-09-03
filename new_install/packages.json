@@ -1,0 +1,114 @@
+{
+  "Packages": {
+    "Base": [
+      "curl",
+      "wget",
+      "sed",
+      "openssh",
+      "awk",
+      "os-prober",
+      "cronie",
+      "unrar",
+      "dnsmasq",
+      "iptables-nft",
+      "pkgfile",
+      "inetutils",
+      "intel-ucode",
+      "bluez",
+      "bluez-utils"
+    ],
+    "Linux-Utils" : [
+      "fd",
+      "htop",
+      "duf",
+      "fzf"
+    ],
+    "Window-Manager": {
+      "Xorg": {
+        "Base": [
+          "xorg-server",
+          "xorg-xinit",
+          "xorg-xrandr",
+          "libxcb",
+          "xcb-util",
+          "xcb-util-keysyms",
+          "xcb-util-wm",
+          "xcb-util-cursor",
+          "fontconfig",
+          "freetype2",
+          "xdg-utils",
+          "xdotool",
+          "wmctrl"
+        ],
+        "Bspwm": [
+          "bspwm",
+          "sxhkd",
+          "rofi",
+          "polybar"
+        ] 
+      },
+      "Wayland": {
+        "Base": [
+          "wayland",
+          "wlr-randr",
+          "ydotool"
+        ],
+        "Hyprland": [
+          "waybar",
+          "hyprland",
+          "hyprshot",
+          "hyprpaper",
+          "wofi",
+          "mako",
+          "python-pywlroots",
+          "xdg-desktop-portal-hyprland"
+        ]
+      }
+    },
+    "Development": {
+      "Tools": [
+        "neovim",
+        "emacs"
+      ],
+      "Languages": [
+        "nodejs",
+        "rust",
+        "rustup",
+        "zig",
+        "ghc",
+        "sbcl"
+      ],
+      "Build": [
+        "pyenv",
+        "python-pipx",
+        "npm",
+        "make",
+        "cmake",
+        "bear",
+        "cabal-install"
+      ],
+      "Infra": [
+        "containerd",
+        "docker"
+      ]
+    },
+    "Misc-Programs": {
+      "Terminal": [
+        "alacritty",
+        "ghostty",
+        "zsh"
+      ],
+      "Browser": [
+        "firefox",
+        "qutebrowser"
+      ],
+      "Comunication": [
+        "discord",
+        "telegram-desktop"
+      ],
+      "Office": [
+        "focuswriter"
+      ]
+    }
+  }
+}

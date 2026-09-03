@@ -1,0 +1,775 @@
+=== Starting installation for: Base ===
+Installing: [
+error: target not found: [
+✗ Failed while installing [
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: packages
+error: target not found: packages
+✗ Failed while installing packages
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: packages
+error: target not found: packages
+✗ Failed while installing packages
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------
+=== Starting installation for: Base ===
+Installing: curl
+warning: curl-8.21.0-1 is up to date -- skipping
+ there is nothing to do
+✓ curl installed successfully
+----------------------------------------
+Installing: wget
+warning: wget-1.25.0-5 is up to date -- skipping
+ there is nothing to do
+✓ wget installed successfully
+----------------------------------------
+Installing: sed
+warning: sed-4.10-1 is up to date -- skipping
+ there is nothing to do
+✓ sed installed successfully
+----------------------------------------
+Installing: openssh
+warning: openssh-10.3p1-1 is up to date -- skipping
+ there is nothing to do
+✓ openssh installed successfully
+----------------------------------------
+Installing: awk
+warning: gawk-5.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ awk installed successfully
+----------------------------------------
+Installing: os-prober
+warning: os-prober-1.84-1 is up to date -- skipping
+ there is nothing to do
+✓ os-prober installed successfully
+----------------------------------------
+Installing: cronie
+warning: cronie-1.7.2-2 is up to date -- skipping
+ there is nothing to do
+✓ cronie installed successfully
+----------------------------------------
+Installing: unrar
+warning: unrar-1:7.2.7-1 is up to date -- skipping
+ there is nothing to do
+✓ unrar installed successfully
+----------------------------------------
+Installing: dnsmasq
+warning: dnsmasq-2.93-1 is up to date -- skipping
+ there is nothing to do
+✓ dnsmasq installed successfully
+----------------------------------------
+Installing: iptables-nft
+warning: iptables-1:1.8.13-1 is up to date -- skipping
+ there is nothing to do
+✓ iptables-nft installed successfully
+----------------------------------------
+Installing: pkgfile
+warning: pkgfile-25-2 is up to date -- skipping
+ there is nothing to do
+✓ pkgfile installed successfully
+----------------------------------------
+Installing: inetutils
+warning: inetutils-2.8-1 is up to date -- skipping
+ there is nothing to do
+✓ inetutils installed successfully
+----------------------------------------
+Installing: intel-ucode
+warning: intel-ucode-20260512-1 is up to date -- skipping
+ there is nothing to do
+✓ intel-ucode installed successfully
+----------------------------------------
+Installing: bluez
+warning: bluez-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez installed successfully
+----------------------------------------
+Installing: bluez-utils
+warning: bluez-utils-5.86-6 is up to date -- skipping
+ there is nothing to do
+✓ bluez-utils installed successfully
+----------------------------------------

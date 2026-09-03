@@ -1,0 +1,11 @@
+=== Starting installation for: Misc-Programs (Comunication) ===
+Installing: discord
+warning: discord-1:1.0.145-1 is up to date -- skipping
+ there is nothing to do
+✓ discord installed successfully
+----------------------------------------
+Installing: telegram-desktop
+warning: telegram-desktop-6.9.3-7 is up to date -- skipping
+ there is nothing to do
+✓ telegram-desktop installed successfully
+----------------------------------------

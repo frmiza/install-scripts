@@ -1,0 +1,35 @@
+=== Starting installation for: Development (Languages) ===
+Installing: nodejs
+warning: nodejs-26.4.0-1 is up to date -- skipping
+ there is nothing to do
+✓ nodejs installed successfully
+----------------------------------------
+Installing: rust
+resolving dependencies...
+looking for conflicting packages...
+:: rust-1:1.96.1-1 and rustup-1.29.0-2 are in conflict (cargo). Remove rustup? [y/N] error: unresolvable package conflicts detected
+error: failed to prepare transaction (conflicting dependencies)
+
+:: rust-1:1.96.1-1 and rustup-1.29.0-2 are in conflict
+✗ Failed while installing rust
+----------------------------------------
+Installing: rustup
+warning: rustup-1.29.0-2 is up to date -- skipping
+ there is nothing to do
+✓ rustup installed successfully
+----------------------------------------
+Installing: zig
+warning: zig-0.16.0-1 is up to date -- skipping
+ there is nothing to do
+✓ zig installed successfully
+----------------------------------------
+Installing: ghc
+warning: ghc-9.6.6-1 is up to date -- skipping
+ there is nothing to do
+✓ ghc installed successfully
+----------------------------------------
+Installing: sbcl
+warning: sbcl-2.6.6-1 is up to date -- skipping
+ there is nothing to do
+✓ sbcl installed successfully
+----------------------------------------

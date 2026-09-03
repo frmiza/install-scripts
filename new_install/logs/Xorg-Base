@@ -1,0 +1,66 @@
+=== Starting installation for: Xorg: Base ===
+Installing: xorg-server
+warning: xorg-server-21.1.23-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-server installed successfully
+----------------------------------------
+Installing: xorg-xinit
+warning: xorg-xinit-1.4.4-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-xinit installed successfully
+----------------------------------------
+Installing: xorg-xrandr
+warning: xorg-xrandr-1.5.4-1 is up to date -- skipping
+ there is nothing to do
+✓ xorg-xrandr installed successfully
+----------------------------------------
+Installing: libxcb
+warning: libxcb-1.17.0-1 is up to date -- skipping
+ there is nothing to do
+✓ libxcb installed successfully
+----------------------------------------
+Installing: xcb-util
+warning: xcb-util-0.4.1-2 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util installed successfully
+----------------------------------------
+Installing: xcb-util-keysyms
+warning: xcb-util-keysyms-0.4.1-5 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-keysyms installed successfully
+----------------------------------------
+Installing: xcb-util-wm
+warning: xcb-util-wm-0.4.2-2 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-wm installed successfully
+----------------------------------------
+Installing: xcb-util-cursor
+warning: xcb-util-cursor-0.1.6-1 is up to date -- skipping
+ there is nothing to do
+✓ xcb-util-cursor installed successfully
+----------------------------------------
+Installing: fontconfig
+warning: fontconfig-2:2.18.1-1 is up to date -- skipping
+ there is nothing to do
+✓ fontconfig installed successfully
+----------------------------------------
+Installing: freetype2
+warning: freetype2-2.14.3-1 is up to date -- skipping
+ there is nothing to do
+✓ freetype2 installed successfully
+----------------------------------------
+Installing: xdg-utils
+warning: xdg-utils-1.2.1-2 is up to date -- skipping
+ there is nothing to do
+✓ xdg-utils installed successfully
+----------------------------------------
+Installing: xdotool
+warning: xdotool-4.20260303.1-1 is up to date -- skipping
+ there is nothing to do
+✓ xdotool installed successfully
+----------------------------------------
+Installing: wmctrl
+warning: wmctrl-1.07-6 is up to date -- skipping
+ there is nothing to do
+✓ wmctrl installed successfully
+----------------------------------------

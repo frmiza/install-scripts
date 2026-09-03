@@ -1,0 +1,68 @@
+=== Starting installation for: Infra ===
+=== Starting installation for: Infra ===
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------
+=== Starting installation for: Infra ===
+Installing: containerd
+warning: containerd-2.3.2-1 is up to date -- skipping
+ there is nothing to do
+✓ containerd installed successfully
+----------------------------------------
+Installing: docker
+warning: docker-1:29.6.1-1 is up to date -- skipping
+ there is nothing to do
+✓ docker installed successfully
+----------------------------------------

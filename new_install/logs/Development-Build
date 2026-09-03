@@ -1,0 +1,36 @@
+=== Starting installation for: Development (Build) ===
+Installing: pyenv
+warning: pyenv-1:2.7.3-1 is up to date -- skipping
+ there is nothing to do
+✓ pyenv installed successfully
+----------------------------------------
+Installing: python-pipx
+warning: python-pipx-1.15.0-1 is up to date -- skipping
+ there is nothing to do
+✓ python-pipx installed successfully
+----------------------------------------
+Installing: npm
+warning: npm-11.18.0-1 is up to date -- skipping
+ there is nothing to do
+✓ npm installed successfully
+----------------------------------------
+Installing: make
+warning: make-4.4.1-3 is up to date -- skipping
+ there is nothing to do
+✓ make installed successfully
+----------------------------------------
+Installing: cmake
+warning: cmake-4.3.4-1 is up to date -- skipping
+ there is nothing to do
+✓ cmake installed successfully
+----------------------------------------
+Installing: bear
+warning: bear-4.1.4-1 is up to date -- skipping
+ there is nothing to do
+✓ bear installed successfully
+----------------------------------------
+Installing: cabal-install
+warning: cabal-install-3.10.3.0-81 is up to date -- skipping
+ there is nothing to do
+✓ cabal-install installed successfully
+----------------------------------------
